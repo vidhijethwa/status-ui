@@ -34,8 +34,8 @@ export default function PlaceOrders() {
                         className="absolute inset-0 z-0 pointer-events-none"
                         style={{
                               backgroundImage: `
-                        linear-gradient(to right, rgba(32, 216, 244, 0.08) 1px, transparent 1px),
-                        linear-gradient(to bottom, rgba(0, 255, 0, 0.08) 1px, transparent 1px)
+                        linear-gradient(to right, rgba(32, 216, 244, 0.09) 1px, transparent 1px),
+                        linear-gradient(to bottom, rgba(32, 216, 244, 0.18) 1px, transparent 1px)
                 `,
                               backgroundSize: '200px 200px',
                         }}
